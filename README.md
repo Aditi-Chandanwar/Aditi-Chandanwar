@@ -17,4 +17,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Aditi-Chandanwar&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+## Profile Views
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Aditi-Chandanwar/count.svg?"  />
+</div>
+
+
 <img src="https://raw.githubusercontent.com/Aditi-Chandanwar/prathamesh-chougale-17/output/snake.svg" alt="Snake animation" />
